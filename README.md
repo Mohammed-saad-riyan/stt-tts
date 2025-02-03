@@ -1,2 +1,2 @@
 # stt-tts
-Created with CodeSandbox
+A speech to text and text to speech NLP chatbot
